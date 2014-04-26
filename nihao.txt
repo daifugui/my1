@@ -1,4 +1,3 @@
 mms://livexwb.cri.com.cn/am846.wsx
 mms://live.cri.cn/oldies.wsx
-http://vprbbc.streamguys.net:8000/vprbbc24.mp3
 http://mod.cri.cn/eng/news/reports/2014/04/0426chen.mp3
